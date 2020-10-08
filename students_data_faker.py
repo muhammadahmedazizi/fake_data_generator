@@ -1,3 +1,5 @@
+# Ref : https://www.geeksforgeeks.org/python-faker-library/
+
 from faker import Faker
 import json  # To create a json file
 from random import randint  # For student id
