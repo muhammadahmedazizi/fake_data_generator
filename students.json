@@ -1,0 +1,72 @@
+{
+  "0": {
+    "id": 1,
+    "name": "James Woods",
+    "address": "081 Nguyen Shoals Apt. 512\nJacobborough, AL 45868",
+    "latitude": "-35.7173195",
+    "longitude": "-150.728992"
+  },
+  "1": {
+    "id": 56,
+    "name": "Nicole Ochoa",
+    "address": "6461 Meghan Causeway Apt. 310\nWest April, HI 41833",
+    "latitude": "-45.859688",
+    "longitude": "-150.199908"
+  },
+  "2": {
+    "id": 21,
+    "name": "Alan Thompson",
+    "address": "4780 Travis Path Suite 087\nBeasleyland, AR 50627",
+    "latitude": "58.867890",
+    "longitude": "33.954985"
+  },
+  "3": {
+    "id": 31,
+    "name": "David Maynard",
+    "address": "37864 Kim Square Apt. 004\nNew Stevenview, MI 66079",
+    "latitude": "-22.9929475",
+    "longitude": "131.485522"
+  },
+  "4": {
+    "id": 57,
+    "name": "John Holt",
+    "address": "7028 Kathryn Parkway Suite 341\nBillymouth, RI 46232",
+    "latitude": "-73.8309655",
+    "longitude": "121.502803"
+  },
+  "5": {
+    "id": 48,
+    "name": "Brian Sawyer",
+    "address": "2101 Erika Square Apt. 234\nPort Ariana, IL 82339",
+    "latitude": "-29.2782305",
+    "longitude": "-103.863937"
+  },
+  "6": {
+    "id": 50,
+    "name": "Amy Wang",
+    "address": "473 Grace Walk\nDannybury, DC 82271",
+    "latitude": "59.3831795",
+    "longitude": "35.884257"
+  },
+  "7": {
+    "id": 43,
+    "name": "Steven Haynes",
+    "address": "5743 John Crest\nMichaelshire, NH 78674",
+    "latitude": "10.5663515",
+    "longitude": "-170.712851"
+  },
+  "8": {
+    "id": 75,
+    "name": "Joseph Graham",
+    "address": "704 James Garden\nSouth Brooke, LA 56626",
+    "latitude": "-3.181128",
+    "longitude": "140.091045"
+  },
+  "9": {
+    "id": 60,
+    "name": "Jared Scott",
+    "address": "6807 Knight Trafficway\nMaryfurt, VA 01850",
+    "latitude": "22.612578",
+    "longitude": "-77.369464"
+  }
+}
